@@ -26,10 +26,10 @@ To get started with this project, you will need to do the following:
 2. Set up a Google Cloud Platform project and enable the YouTube Data API.
 4. Set up a MongoDB Atlas cluster.
 5. Set up a SQL database(mysql).
-6. open the terminal, type streamlit run `yt.py` script to start the Streamlit application in your web browser.
+6. open the terminal, type streamlit run 'yt_project.py' script to start the Streamlit application in your web browser.
 
 ## Key Skills
-Python scripting, Data Collection,MongoDB, Streamlit, API integration, Data Management using MongoDB (Atlas) and SQL(mysql).
+Python scripting, Data Collection, MongoDB, Streamlit, API integration, Data Management using MongoDB (Atlas) and SQL(mysql).
 
 
 
